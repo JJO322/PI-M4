@@ -10,3 +10,10 @@ data de como los diferentes paises manejaron la pandemia, y pusimos lo encontrad
 lo encontrado, y decidimos que Brasil era el mejor objetivo inicialmente por su gran cantidad de población. 
 
 https://drive.google.com/drive/folders/1VwWjRheO1JzNGCMrIRmHOiKkYgC49TAJ
+
+
+- Nos dan un dataset the Kaggle de como se manejo la pandemia en el mundo:
+- https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view
+
+- Con el dataset ya descargado, hacemos un proyecto en Python donde:
+  ![image](https://github.com/user-attachments/assets/65fdb34b-4bf6-4147-a03e-e70875c91713)
