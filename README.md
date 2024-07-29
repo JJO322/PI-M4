@@ -1,6 +1,6 @@
 # PI-M4 Analisis de Biogenesis con Python
 Jul 2024
--Tomamos el rol de un analista de datos en Biogenesis, ay con la data de como se manejo la pandemia del Cobid-19 
+-Tomamos el rol de un analista de datos en Biogenesis, y con la data de como se manejo la pandemia del Cobid-19 
 en Latino America, el objetivo es ayudar a Biogenesis a elegir el mejor país para expandirse de 5 objetivos: Brasil, Argentina,
 Chile, Colombia y Perú.
 -Tecnologías usadas: Python , Power BI.
