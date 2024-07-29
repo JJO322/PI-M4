@@ -16,4 +16,5 @@ https://drive.google.com/drive/folders/1VwWjRheO1JzNGCMrIRmHOiKkYgC49TAJ
 - https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view
 
 - Con el dataset ya descargado, hacemos un proyecto en Python donde:
-  ![image](https://github.com/user-attachments/assets/65fdb34b-4bf6-4147-a03e-e70875c91713)
+   ![image](https://github.com/user-attachments/assets/65fdb34b-4bf6-4147-a03e-e70875c91713)
+  ![image](https://github.com/user-attachments/assets/733a7a4d-6477-4d0c-9a0b-03143b3d8fd6)
